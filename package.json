@@ -1,6 +1,6 @@
 {
   "name": "echarts-simple-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some simple data transforms for Apache ECharts 5",
   "license": "Apache-2.0",
   "main": "dist/ecSimpleTransform.js",
@@ -27,8 +27,8 @@
     "eslint": "6.3.0",
     "fs-extra": "0.26.7",
     "rollup": "2.34.2",
-    "rollup-plugin-typescript2": "^0.25.3",
     "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-typescript2": "^0.25.3",
     "terser": "^5.3.8",
     "typescript": "^4.1.2"
   }
